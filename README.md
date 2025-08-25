@@ -1,7 +1,7 @@
 # HRV Preprocessing Pipeline
 
 A Python pipeline for preprocessing Polar RR interval (RRI) data, correcting artifacts, and computing heart rate variability (HRV) metrics.  
-The artifact correction is based on **Lipponen & Tarvainen (2019)**, and the pipeline outputs cleaned data, summary metrics (RMSSD), and visualizations.
+The artifact correction is based on **Lipponen & Tarvainen (2019)**, and the pipeline outputs cleaned data, HRV metrics (RMSSD), and visualizations.
 
 ---
 
